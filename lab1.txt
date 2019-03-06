@@ -6,3 +6,5 @@ more changes
 second set of changes
 third changes of the file.
 this is at cool-stuff2
+this is a rad-stuff
+after a pull request.
