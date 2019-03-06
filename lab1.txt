@@ -1,3 +1,8 @@
 this is a test file
 this is a text file for lab 1.
 after get clone.
+start of the second  lab.
+more changes
+second set of changes
+third changes of the file.
+this is at cool-stuff2
